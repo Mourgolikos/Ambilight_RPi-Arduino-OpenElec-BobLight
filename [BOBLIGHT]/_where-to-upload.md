@@ -1,0 +1,1 @@
+/storage/.kodi/userdata/addon_data/service.multimedia.boblightd/
